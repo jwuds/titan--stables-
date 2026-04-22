@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "horses": "Chevaux",
+    "shop": "Boutique",
+    "facility": "Installations",
+    "services": "Services",
+    "journal": "Journal",
+    "blog": "Blog",
+    "regional_hubs": "Pôles Régionaux",
+    "reviews": "Avis",
+    "about": "À Propos",
+    "call_now": "Appelez Maintenant",
+    "sign_in": "Se Connecter"
+  },
+  "footer": {
+    "brand_desc": "Importation et soins de chevaux Frisons KFPS de qualité supérieure.",
+    "explore_services": "Explorez nos services",
+    "intl_standards": "Normes internationales",
+    "support_admin": "Support et Administration",
+    "rights": "Titan Stables | Dédié à l'excellence.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions de service",
+    "sitemap": "Plan du site",
+    "available_languages": "Langues disponibles :"
+  },
+  "common": {
+    "call_us": "Appelez-nous ici",
+    "select_language": "Choisir la langue",
+    "read_more": "Lire la suite"
+  },
+  "home": {
+    "hero_tag": "20+ ans d'excellence équestre",
+    "hero_title_1": "Chevaux Frisons KFPS de qualité",
+    "hero_title_2": "À vendre aux États-Unis",
+    "hero_subtitle": "Reconnu par les acheteurs internationaux depuis 2004. Découvrez l'élégance de la silhouette baroque et l'esprit doux de nos chevaux Frisons.",
+    "browse_btn": "Parcourir nos Frisons KFPS",
+    "contact_btn": "Contacter nos experts"
+  },
+  "about": {
+    "title": "Titan Stables : Experts des Frisons KFPS basés aux États-Unis",
+    "subtitle": "Dédiés à la préservation, la promotion et la perfection du cheval Frison depuis 2004."
+  },
+  "horses": {
+    "title": "Chevaux Frisons KFPS Premium à vendre",
+    "subtitle": "Découvrez le partenaire de vos rêves parmi notre collection exclusive de chevaux Frisons enregistrés au KFPS.",
+    "browse": "Parcourir nos chevaux Frisons KFPS",
+    "support": "Support pour les acheteurs internationaux",
+    "support_desc": "En tant qu'experts en élevage de Frisons, nous garantissons une transparence totale pour chaque cheval que nous proposons."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nos experts en Frisons KFPS sont prêts à vous aider avec le support aux acheteurs internationaux.",
+    "send_msg": "Envoyez-nous un message",
+    "msg_desc": "Remplissez le formulaire ci-dessous et nous vous contacterons pour discuter de vos besoins."
+  },
+  "blog": {
+    "title": "Journal Titan Stables",
+    "description": "Aperçus, guides et actualités du monde des chevaux Frisons KFPS.",
+    "categories": {
+      "friesian-care": "Soins des Frisons",
+      "importation": "Importation",
+      "breeding": "Élevage",
+      "regional": "Mises à jour régionales",
+      "success-story": "Histoires de réussite",
+      "all": "Tous les articles"
+    },
+    "readMore": "Lire l'article complet",
+    "author": "Par",
+    "published": "Publié le",
+    "readingTime": "min de lecture",
+    "relatedPosts": "Articles liés",
+    "sharePost": "Partager cet article"
+  },
+  "regional": {
+    "title": "Pôles d'importation mondiaux",
+    "usa": "États-Unis",
+    "canada": "Canada",
+    "australia": "Australie",
+    "netherlands": "Pays-Bas",
+    "mexico": "Mexique",
+    "importation": "Processus d'importation",
+    "timeline": "Calendrier estimé",
+    "support": "Support régional",
+    "pricing": "Prix et frais régionaux",
+    "select_region": "Sélectionner la région"
+  },
+  "stories": {
+    "title": "Histoires de réussite",
+    "region": "Région",
+    "buyer": "Propriétaire",
+    "horse": "Cheval",
+    "testimonial": "Ce qu'ils disent"
+  }
+}

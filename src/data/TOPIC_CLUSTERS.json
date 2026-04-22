@@ -1,0 +1,119 @@
+{
+  "clusters": [
+    {
+      "id": "horse-breeds",
+      "name": "Horse Breeds Cluster",
+      "hubUrl": "/horses",
+      "hubTitle": "Premium Horse Breeds & Selection",
+      "relatedArticles": [
+        {
+          "title": "Ultimate Guide to KFPS Friesians",
+          "url": "/blog/ultimate-guide-kfps-friesians",
+          "anchorText": "KFPS Friesian guide"
+        },
+        {
+          "title": "Understanding Breed Characteristics",
+          "url": "/blog/breed-characteristics-explained",
+          "anchorText": "horse breed characteristics"
+        },
+        {
+          "title": "Choosing the Right Breed for You",
+          "url": "/blog/choosing-right-horse-breed",
+          "anchorText": "choosing a horse breed"
+        }
+      ]
+    },
+    {
+      "id": "horse-training",
+      "name": "Horse Training Cluster",
+      "hubUrl": "/services",
+      "hubTitle": "Equestrian Training & Services",
+      "relatedArticles": [
+        {
+          "title": "Advanced Dressage Techniques",
+          "url": "/blog/advanced-dressage-techniques",
+          "anchorText": "dressage techniques"
+        },
+        {
+          "title": "Understanding Equine Behavior",
+          "url": "/blog/understanding-equine-behavior",
+          "anchorText": "horse behavior training"
+        },
+        {
+          "title": "Foundational Training Programs",
+          "url": "/blog/foundational-training-programs",
+          "anchorText": "horse training programs"
+        }
+      ]
+    },
+    {
+      "id": "horse-care",
+      "name": "Horse Care Cluster",
+      "hubUrl": "/blog",
+      "hubTitle": "Equine Health & Care",
+      "relatedArticles": [
+        {
+          "title": "Optimal Equine Nutrition",
+          "url": "/blog/optimal-equine-nutrition",
+          "anchorText": "horse nutrition guide"
+        },
+        {
+          "title": "Seasonal Care Guidelines",
+          "url": "/blog/seasonal-horse-care",
+          "anchorText": "seasonal horse care"
+        },
+        {
+          "title": "Preventative Health Measures",
+          "url": "/blog/preventative-equine-health",
+          "anchorText": "preventative horse health"
+        }
+      ]
+    },
+    {
+      "id": "riding-disciplines",
+      "name": "Riding Disciplines Cluster",
+      "hubUrl": "/blog",
+      "hubTitle": "Riding Styles & Disciplines",
+      "relatedArticles": [
+        {
+          "title": "The Art of Dressage",
+          "url": "/blog/art-of-dressage",
+          "anchorText": "dressage riding style"
+        },
+        {
+          "title": "Show Jumping Fundamentals",
+          "url": "/blog/show-jumping-fundamentals",
+          "anchorText": "jumping fundamentals"
+        },
+        {
+          "title": "Endurance Riding Prep",
+          "url": "/blog/endurance-riding-prep",
+          "anchorText": "endurance riding"
+        }
+      ]
+    },
+    {
+      "id": "horse-equipment",
+      "name": "Horse Equipment Cluster",
+      "hubUrl": "/blog",
+      "hubTitle": "Tack & Equipment Guide",
+      "relatedArticles": [
+        {
+          "title": "Saddle Selection Guide",
+          "url": "/blog/saddle-selection-guide",
+          "anchorText": "choosing a saddle"
+        },
+        {
+          "title": "Essential Grooming Tools",
+          "url": "/blog/essential-grooming-tools",
+          "anchorText": "horse grooming tools"
+        },
+        {
+          "title": "Protective Equipment Overview",
+          "url": "/blog/protective-horse-equipment",
+          "anchorText": "protective equine equipment"
+        }
+      ]
+    }
+  ]
+}

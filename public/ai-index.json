@@ -1,0 +1,51 @@
+{
+  "website": "https://titanstables.org",
+  "organization": {
+    "name": "Titan Stables",
+    "description": "Premium KFPS Friesian Horse Breeder, Importer, and Equestrian Facility.",
+    "founded": "2004",
+    "location": "Virginia, USA",
+    "contact": "support@titanstables.org"
+  },
+  "crawling_instructions": {
+    "allowed": true,
+    "preferred_citation_format": "Titan Stables - [Article Title](URL)",
+    "disallowed_paths": ["/admin", "/checkout", "/api"]
+  },
+  "content_categories": [
+    {
+      "name": "Friesian Breed Information",
+      "path": "/horses"
+    },
+    {
+      "name": "Equestrian Training & Care",
+      "path": "/blog"
+    },
+    {
+      "name": "Equestrian Facilities",
+      "path": "/facility"
+    }
+  ],
+  "key_pages": [
+    {
+      "url": "https://titanstables.org",
+      "title": "Titan Stables Home",
+      "description": "Premium KFPS Friesian Horses & Boarding Facility"
+    },
+    {
+      "url": "https://titanstables.org/about",
+      "title": "About Titan Stables",
+      "description": "A legacy of excellence in Friesian breeding since 2004."
+    },
+    {
+      "url": "https://titanstables.org/horses",
+      "title": "Our Horses",
+      "description": "Available premium Friesian horses."
+    }
+  ],
+  "sitemaps": [
+    "https://titanstables.org/sitemap.xml",
+    "https://titanstables.org/sitemap-blog.xml",
+    "https://titanstables.org/sitemap-horses.xml"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "horses": "Horses",
+    "shop": "Shop",
+    "facility": "Facility",
+    "services": "Services",
+    "journal": "Journal",
+    "blog": "Blog",
+    "regional_hubs": "Regional Hubs",
+    "reviews": "Reviews",
+    "about": "About",
+    "call_now": "Call Now",
+    "sign_in": "Sign In"
+  },
+  "footer": {
+    "brand_desc": "Premium KFPS Friesian Importation & Care.",
+    "explore_services": "Explore Our Services",
+    "intl_standards": "International Standards",
+    "support_admin": "Support & Administration",
+    "rights": "Titan Stables | Dedicated to Excellence.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "sitemap": "Site Map",
+    "available_languages": "Available Languages:"
+  },
+  "common": {
+    "call_us": "Call Us Here",
+    "select_language": "Select Language",
+    "read_more": "Read More"
+  },
+  "home": {
+    "hero_tag": "20+ Years of Equestrian Excellence",
+    "hero_title_1": "Premium KFPS Friesian Horses",
+    "hero_title_2": "For Sale in the USA",
+    "hero_subtitle": "Trusted by international buyers since 2004. Discover the elegance of the Baroque horse silhouette, dynamic dressage movement, and the gentle spirit of our KFPS registered Friesian horses.",
+    "browse_btn": "Browse Our KFPS Friesians",
+    "contact_btn": "Contact Our Experts"
+  },
+  "about": {
+    "title": "Titan Stables: USA-Based KFPS Friesian Experts",
+    "subtitle": "Dedicated to the preservation, promotion, and perfection of the Friesian horse since 2004."
+  },
+  "horses": {
+    "title": "Premium KFPS Friesian Horses for Sale",
+    "subtitle": "Discover your dream partner among our exclusive collection of KFPS registered Friesian horses.",
+    "browse": "Browse Our KFPS Friesian Horses",
+    "support": "International Buyer Support",
+    "support_desc": "As experts in Friesian breeding, we ensure every horse we offer comes with complete transparency."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Our KFPS Friesian experts are ready to assist you with international buyer support.",
+    "send_msg": "Send us a Message",
+    "msg_desc": "Fill out the form below and we'll get back to you to discuss your specific requirements."
+  },
+  "blog": {
+    "title": "Titan Stables Journal",
+    "description": "Insights, guides, and news from the world of KFPS Friesian horses.",
+    "categories": {
+      "friesian-care": "Friesian Care",
+      "importation": "Importation",
+      "breeding": "Breeding",
+      "regional": "Regional Updates",
+      "success-story": "Success Stories",
+      "all": "All Posts"
+    },
+    "readMore": "Read Full Article",
+    "author": "By",
+    "published": "Published on",
+    "readingTime": "min read",
+    "relatedPosts": "Related Articles",
+    "sharePost": "Share this post"
+  },
+  "regional": {
+    "title": "Global Importation Hubs",
+    "usa": "United States",
+    "canada": "Canada",
+    "australia": "Australia",
+    "netherlands": "Netherlands",
+    "mexico": "Mexico",
+    "importation": "Importation Process",
+    "timeline": "Estimated Timeline",
+    "support": "Regional Support",
+    "pricing": "Regional Pricing & Fees",
+    "select_region": "Select Region"
+  },
+  "stories": {
+    "title": "Success Stories",
+    "region": "Region",
+    "buyer": "Owner",
+    "horse": "Horse",
+    "testimonial": "What they say"
+  }
+}
